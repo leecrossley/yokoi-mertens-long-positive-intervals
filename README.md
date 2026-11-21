@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24410796.svg)](https://doi.org/10.5281/zenodo.24410796)
 
+This result is now maintained in [quadratic-mertens-first-crossings](https://github.com/leecrossley/quadratic-mertens-first-crossings/tree/main/results/yokoi-mertens-long-positive-intervals). This repository is archived and keeps its releases and DOI.
+
 In the field $\mathbb Q(\sqrt{5004173})$, the prime-ideal Mertens product stays ahead until just past 201,402. Two unconditional calculations check every interval from 2 to that first crossing.
 
 The theorem concerns the whole family. Write $d=m^2+4$ with $m$ positive and odd and $d$ squarefree. Let $S_d$ be the first crossing, the infimum of the points where the product is strictly below its main term. Define $M(D)$ as the largest $S_d$ among these fields with $d\le D$. Assuming the ordinary Riemann hypothesis (RH), for some absolute $c>0$ and every sufficiently large $D$,
